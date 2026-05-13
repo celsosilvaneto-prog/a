@@ -12,7 +12,7 @@
 (function () {
     'use strict';
 
-    const API_KEY = 'AIzaSyBhvPR6dI_kKzqNDONe-DgLpw8xp1H8VeU'; // sua API Key aqui
+    const API_KEY = 'AIzaSyBSuc6EirkJV4K2N262bubRMRgE214tuwM'; // sua API Key aqui
     let autoMode = false;
     let processando = false;
 
